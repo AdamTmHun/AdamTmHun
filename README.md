@@ -5,4 +5,4 @@ Something about me, for nerds:
 - ⚡ Fun fact: I hate frontend, but I still do it, since I like the result.
 
 
-[AdamTm's GitHub stats](https://github-readme-stats.vercel.app/api?username=AdamTmHun)
+<img src="https://github-readme-stats.vercel.app/api?username=AdamTmHun">
