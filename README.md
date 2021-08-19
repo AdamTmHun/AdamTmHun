@@ -1,7 +1,6 @@
 Something about me, for nerds:
 
-- 🔭 I’m currently working on Prism Website
-- 📫 How to reach me: AdamTm#4686 on Discord
+- 📫 How to reach me: AdamTm#0001 on Discord
 - ⚡ Fun fact: I hate frontend, but I still do it, since I like the result.
 
 
